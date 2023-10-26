@@ -1,3 +1,3 @@
 # usmanbasha-demo
 this is my git repository
-Author : USMAN BASHA
+Author : USMAN BASHA SHAIK
